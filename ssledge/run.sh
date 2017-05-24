@@ -4,4 +4,4 @@
 
 DIR=$(dirname $0)
 ${DIR}/ssledge-term-x64 -f ${DIR}/config/http/hybrid.conf -D
-${DIR}/ssledge-term-x64 -f ${DIR}/config/http/config/socks/socks-jp2.conf -D
+${DIR}/ssledge-term-x64 -f ${DIR}/config/socks/socks-jp2.conf -D
